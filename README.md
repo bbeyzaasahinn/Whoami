@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Beyza
 - 👀 I’m interested in Cyber Security 
 - 🌱 I’m currently learning threat intelligence and new SOC technologies
-- 📫 How to reach me Tw: @bbeyzaasahinn
 
 <!---
 shn-beyzaa/shn-beyzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
